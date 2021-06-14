@@ -12,3 +12,9 @@ node_modules
 
 # Ignore SASS config files
 .sass-cache
+
+# Ignore directories
+/texts
+
+# Ignore test functions
+test_typewriter.py
