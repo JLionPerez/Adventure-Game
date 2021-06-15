@@ -11,8 +11,6 @@ Description: Reads in the contents of text files and returns them as a string.
 Arguments: string
 Returns: string
 """
-
-
 def read_text(file):
     message = []
     with open(file) as f:
@@ -26,8 +24,6 @@ Description: Prints string onto the terminal as if being written by a typewriter
 Arguments: string
 Returns: none
 """
-
-
 def typewriter(message):
     pauses = ['\n', '.', ',', '!', '?']
 
@@ -47,8 +43,6 @@ Description:
 Arguments: 
 Returns: 
 """
-
-
 def change_color(text, substr, color):
     # colored_substr = Fore.RED + substr
     # index_substr = text.find(substr)
@@ -96,8 +90,6 @@ Description: Runs a series of functions.
 Arguments: none
 Returns: none
 """
-
-
 def main():
     init(convert=True)
     # print(Fore.RED + 'some red text')
