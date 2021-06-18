@@ -14,7 +14,4 @@ node_modules
 .sass-cache
 
 # Ignore directories
-/texts
-
-# Ignore test functions
-test_typewriter.py
+/tests

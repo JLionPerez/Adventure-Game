@@ -5,6 +5,8 @@ import random
 import math
 import re
 from colorama import init, deinit, Fore, Back, Style
+import character
+import profession
 
 """
 Name: read_text
