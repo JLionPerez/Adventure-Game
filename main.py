@@ -1,3 +1,4 @@
+from classes.character import Character
 import sys
 import time
 import os
@@ -5,8 +6,8 @@ import random
 import math
 import re
 from colorama import init, deinit, Fore, Back, Style
-import character
-import profession
+import classes
+
 
 """
 Name: read_text
