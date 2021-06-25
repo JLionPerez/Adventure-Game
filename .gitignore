@@ -16,3 +16,4 @@ node_modules
 # Ignore directories
 /tests
 /__pycache__
+/classes/__pycache__
