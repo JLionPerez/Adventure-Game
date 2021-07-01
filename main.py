@@ -1,4 +1,3 @@
-from classes.character import Character
 import sys
 import time
 import os
@@ -7,7 +6,6 @@ import math
 import re
 from colorama import init, deinit, Fore, Back, Style
 import classes
-
 
 """
 Name: read_text
@@ -89,10 +87,6 @@ Returns: none
 def main():
     init(convert=True)
 
-    name = []
-    weapon = []
-    armor = []
-
     os.system("cls")
 
     # game introduction
@@ -125,18 +119,6 @@ def main():
     os.system("cls")
 
     # start adventure
-
-    # testing change color
-    # strs_colors = {
-    #     "RED": "Iron Dagger",
-    #     "BLUE": "Black Hood",
-    #     "GREEN": "thief",
-    #     "YELLOW": "armor",
-    #     "MAGENTA": "weapons",
-    #     "CYAN": "example"
-    # }
-
-    # typewriter(change_color(read_text("story/rules.txt"), strs_colors))
 
 
 if __name__ == "__main__":
