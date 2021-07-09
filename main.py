@@ -55,22 +55,22 @@ def change_color(text, dict): # needs to be perfected in the future, for now wor
         for word in words:
             original_word = word
             word = re.sub('[!?@#$&,.]', '', word)
-            if word in dict["RED"].split():
+            if "RED" in dict and word in dict["RED"].split():
                 color_word = Fore.RED + word + Style.RESET_ALL
                 string_array.append(''.join(color_word))
-            elif word in dict["BLUE"].split():
+            elif "BLUE" in dict and word in dict["BLUE"].split():
                 color_word = Fore.BLUE + word + Style.RESET_ALL
                 string_array.append(color_word)
-            elif word in dict["GREEN"].split():
+            elif "GREEN" in dict and word in dict["GREEN"].split():
                 color_word = Fore.GREEN + word + Style.RESET_ALL
                 string_array.append(color_word)
-            elif word in dict["YELLOW"].split():
+            elif "YELLOW" in dict and word in dict["YELLOW"].split():
                 color_word = Fore.YELLOW + word + Style.RESET_ALL
                 string_array.append(color_word)
-            elif word in dict["MAGENTA"].split():
+            elif "MAGENTA" in dict and word in dict["MAGENTA"].split():
                 color_word = Fore.MAGENTA + word + Style.RESET_ALL
                 string_array.append(color_word)
-            elif word in dict["CYAN"].split():
+            elif "CYAN" in dict and word in dict["CYAN"].split():
                 color_word = Fore.CYAN + word + Style.RESET_ALL
                 string_array.append(color_word)
             else:
@@ -96,13 +96,30 @@ def main():
     os.system("cls")
 
     # tell the rules of the world
-    typewriter(read_text("story/rules.txt"))
+    items = {
+        "BLUE" : "Iron Dagger",
+        "GREEN" : "",
+        "YELLOW" : "",
+        "MAGENTA" : "",
+        "CYAN" : ""
+    }
+
+    typewriter(change_color(read_text("story/rules.txt"), items))
 
     time.sleep(2)
     os.system("cls")
 
     # select weapon
-    typewriter(read_text("story/starting_weapons.txt"))
+    weapons = {
+        "RED" : "Iron Dagger",
+        "BLUE" : "",
+        "GREEN" : "",
+        "YELLOW" : "",
+        "MAGENTA" : "",
+        "CYAN" : ""
+    }
+
+    typewriter(change_color(read_text("story/starting_weapons.txt"), weapons))
     weapon = input("> ")
 
     typewriter("You chose " + weapon + ".\n" )
