@@ -1,0 +1,9 @@
+Before we begin, I must tell you the rules of this game.
+
+Many items, such as weapons and armor, are scattered throughout this world for you to find.
+The type of items you pick up and use determines your profession.
+For example, if you pick up an Iron Dagger, and a Black Hood, you essentially become a thief.
+
+Many spells are scattered throughout this world for you to find.
+The type of spells you dicover depends on your selected profession and the type of monster you defeat.
+For example, if you defeat a Lower Goblin 

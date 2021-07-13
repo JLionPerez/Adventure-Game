@@ -110,16 +110,16 @@ def main():
     os.system("cls")
 
     # select weapon
-    weapons = {
-        "RED" : "Iron Dagger",
-        "BLUE" : "",
-        "GREEN" : "",
-        "YELLOW" : "",
-        "MAGENTA" : "",
-        "CYAN" : ""
-    }
+    # weapons = {
+    #     "RED" : "Iron Dagger",
+    #     "BLUE" : "",
+    #     "GREEN" : "",
+    #     "YELLOW" : "",
+    #     "MAGENTA" : "",
+    #     "CYAN" : ""
+    # }
 
-    typewriter(change_color(read_text("story/starting_weapons.txt"), weapons))
+    typewriter(read_text("story/starting_weapons.txt"))
     weapon = input("> ")
 
     typewriter("You chose " + weapon + ".\n" )

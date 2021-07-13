@@ -1,0 +1,56 @@
+Rules of the Game:
+Find spells for profession, scattered in the world
+defeat monsters to gain/unlock spells, pseudo leveling depending on monster
+
+red - bad/enemies
+cyan - good/helpers
+
+levels of rarity:
+common - blue
+uncommon - green
+rare - yellow
+legendary - magenta
+
+levels of monsters:
+boss - legendary or yellow
+mini boss - yellow or green
+lackeys - green or blue
+
+types of monsters:
+goblins
+hell hounds/wolves
+vampires
+wild witches/wizards
+mean seals
+hobgoblins
+werewolves
+
+Forest & Hell:
+Mr. Big Bad Wolf - Boss
+werewolves - mini boss
+feral wolves - lackeys
+Lost doggo - helper
+
+Hell:
+Lilith/Gabrielle - boss
+incubus/succubus - mini boss
+lower demons - lackeys
+
+Caves:
+Ogre/Lost Vampire - Boss
+Mutant bats/Hobgoblins - mini boss
+rabid bats/goblins - lackeys
+Child ghost - helper
+
+Sea 
+Ghost pirate Captain Arrgh - Boss
+Ghost pirates - mini boss
+harpies (bad mermaids) - lackeys
+mermaids - helpers
+seals (sea doggos) - helpers
+
+Lakes & Rivers
+Kappa - boss
+water snakes/eels - mini boss
+gold fish - lackeys : don't release gold fish into the wild
+fishermen - helpers
