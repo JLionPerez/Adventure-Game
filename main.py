@@ -109,6 +109,7 @@ def main():
     time.sleep(2)
     os.system("cls")
 
+    # no professions
     # select weapon
     # weapons = {
     #     "RED" : "Iron Dagger",
@@ -119,15 +120,15 @@ def main():
     #     "CYAN" : ""
     # }
 
-    typewriter(read_text("story/starting_weapons.txt"))
-    weapon = input("> ")
+    # typewriter(read_text("story/starting_weapons.txt"))
+    # weapon = input("> ")
 
-    typewriter("You chose " + weapon + ".\n" )
+    # typewriter("You chose " + weapon + ".\n" )
 
-    time.sleep(2)
-    os.system("cls")
+    # time.sleep(2)
+    # os.system("cls")
 
-    # confirm selection with name
+    # name character
     typewriter("What is your name?\n")
     name = input("> ")
     typewriter("\nLet's begin your adventure, " + name + ".")

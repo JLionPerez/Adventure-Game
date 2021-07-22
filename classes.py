@@ -26,6 +26,7 @@ class Character:
     def forget_spell(self, spell):
         del self.spells[spell]
 
+# need to remove professions
 class Profession:
     title = ""
     health = 0
