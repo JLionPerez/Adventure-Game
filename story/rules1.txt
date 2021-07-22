@@ -5,5 +5,5 @@ The type of items you pick up and use determines your profession.
 For example, if you pick up an Iron Dagger, and a Black Hood, you essentially become a thief.
 
 Many spells are scattered throughout this world for you to find.
-The type of spells you dicover depends on your selected profession and the type of monster you defeat.
+The type of spells you dicover depends on your selected profession.
 For example, if you defeat a Lower Goblin 

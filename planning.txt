@@ -1,20 +1,53 @@
+---- Prototype 1 ----
 Rules of the Game:
 Find spells for profession, scattered in the world
 defeat monsters to gain/unlock spells, pseudo leveling depending on monster
 
-red - bad/enemies
-cyan - good/helpers
 
-levels of rarity:
+---- Prototype 2 ----
+Story:
+you're a traveling mage with an uncanny ability to read old scripts and learn new spells from them
+tasked to defeat monsters and save Altea from destruction by the royal prophet
+an evil magic called Mayhem is about to awaken erupting from the grounds of Altea
+to put it back to sleep you need to venture to 3 different dimensions and kill the Mayham's agents to restore peace in those dimensions
+once all dimensions have been purged by Mayhem influences, then the threat will be avoided
+but you get tricked (going on a mislead rampage), killing the agents triggers the awakening of Mayhem
+turns out the person who said the prophecy about Mayhem was lying and is a secret Mayhem worshipper
+the agents were guardians of these dimensions and keep Mayhem in his tomb, 
+but when killed the force keeping Mayhem underground weakens thus releasing Mayhem
+your ultimate goal would be to defeat Mayhem once and for all
+
+World building:
+main city of Altea
+forests
+ruins
+hidden areas
+forts
+towers
+lakes
+rivers
+sea
+
+Rules of game:
+Find spells scattered in the world
+Defeat monsters and unlock chests to gain spells
+follow quests and save the kingdom of Altea
+no leveling, no professions, just lots of fighting
+
+---- Monsters and Friends ----
+red - bad/enemies, fight them to get to chests
+cyan - good/helpers, leads you to chests, areas, and dimensions
+
+levels of rarity of chests:
 common - blue
 uncommon - green
 rare - yellow
 legendary - magenta
 
 levels of monsters:
-boss - legendary or yellow
-mini boss - yellow or green
-lackeys - green or blue
+boss - legendary or yellow chests
+mini boss - yellow or green chests
+lackeys - green or blue chests or none
 
 types of monsters:
 goblins
