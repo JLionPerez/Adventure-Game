@@ -26,7 +26,7 @@ Arguments: string
 Returns: none
 """
 def typewriter(message):
-    pauses = ['\n', '.', ',', '!', '?']
+    pauses = ['.', '!', '?']
 
     for char in message:
         sys.stdout.write(char)

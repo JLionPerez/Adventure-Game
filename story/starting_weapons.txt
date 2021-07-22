@@ -1,6 +1,0 @@
-Let's start by defining your character.
-
-Here is a list of available weapons that you can choose from:
-    Iron Sword    Wooden Wand    Copper Dagger    The Holy Bible
-
-What weapon will you choose? 

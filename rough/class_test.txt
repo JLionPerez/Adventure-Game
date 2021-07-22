@@ -1,0 +1,17 @@
+    # CLASS TESTING
+    # spells = {
+    #     "Potion" : ["heal", 5],
+    #     "Punch" : ["attack", 2]
+    # }
+
+    # char = Character("Mary", 10, spells)
+    # print("name: %s, health: %d, spells: " % (char.name, char.health), end="")
+    # print(char.spells)
+
+    # char.new_spell("Soul Heal", "heal", 20)
+
+    # print("Char's spells: ", end="")
+    # print(char.spells)
+
+    # print("\nOriginal spells: ", end="")
+    # print(spells)

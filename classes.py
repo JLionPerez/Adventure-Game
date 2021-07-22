@@ -23,17 +23,3 @@ class Character:
     
     def forget_spell(self, spell):
         del self.spells[spell]
-
-# need to remove professions
-# class Profession:
-    # title = ""
-    # health = 0
-    # spells = {
-    #     "Potion" : ["heal", 5],
-    #     "Punch" : ["attack", 2]
-    # }
-
-    # def __init__(self, title, health, default_spells):
-    #     self.title = title
-    #     self.health = health
-    #     self.spells = default_spells

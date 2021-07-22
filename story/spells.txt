@@ -1,0 +1,15 @@
+Throughout your journey you will encounter enemies and allies.
+You can identify enemies and allies by the color of their names.
+Enemies will be in red, and allies will be in cyan.
+
+For example, goblins are enemies and mermaids are allies.
+
+
+Chests will also be in varying colors signifying their rarity.
+Here is a list of chests ranking in rarity:
+    Common Chests are blue.
+    Uncommon Chests are green.
+    Rare Chests are yellow.
+    Legendary Chests are magenta.
+
+The strength of spells depends on the rarity of the chest of which it came from.
