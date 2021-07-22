@@ -17,3 +17,4 @@ node_modules
 /tests
 /__pycache__
 /classes/__pycache__
+# /rough
