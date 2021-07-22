@@ -1,9 +1,3 @@
-# import sys
-# import time
-# import os
-# import random
-# import math
-# import re
 from colorama import init, deinit, Fore, Back, Style
 from functions import read_text, typewriter, change_color, os, time
 from classes import Character
