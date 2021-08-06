@@ -20,10 +20,10 @@ def main():
     os.system("cls")
 
     # tell the rules of the world
-    typewriter(read_text("story/rules.txt"))
+    # typewriter(read_text("story/rules.txt"))
 
-    time.sleep(1.5)
-    os.system("cls")
+    # time.sleep(1.5)/
+    # os.system("cls")
 
     colors = {
         "RED" : "goblins",

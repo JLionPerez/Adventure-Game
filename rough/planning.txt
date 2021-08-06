@@ -45,9 +45,28 @@ rare - yellow
 legendary - magenta
 
 levels of monsters:
-boss - legendary or yellow chests
-mini boss - yellow or green chests
-lackeys - green or blue chests or none
+boss - legendary or rare chests
+mini boss - rare or uncommon chests
+lackeys - uncommon or common chests or none
+
+common spells:
+heals - minor heal
+attacks - 
+
+uncommon spells:
+heals - 
+attacks - 
+
+rare spells:
+heals - 
+attacks - 
+
+legendary spells:
+heals - Revive
+attacks - 
+
+special items: basically spells that deletes after used once
+
 
 types of monsters:
 goblins

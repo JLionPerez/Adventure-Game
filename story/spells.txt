@@ -4,12 +4,13 @@ Enemies will be in red, and allies will be in cyan.
 
 For example, goblins are enemies and mermaids are allies.
 
-
 Chests will also be in varying colors signifying their rarity.
-Here is a list of chests ranking in rarity:
-    Common Chests are blue.
-    Uncommon Chests are green.
-    Rare Chests are yellow.
-    Legendary Chests are magenta.
+    Common_Chests are blue.
+    Uncommon_Chests are green.
+    Rare_Chests are yellow.
+    Legendary_Chests are magenta.
 
-The strength of spells depends on the rarity of the chest of which it came from.
+The strength of the spell depends on the rarity of the chest of which it came from.
+
+For example, if you open a Common_Chest you might be given a Minor_Heal spell.
+
