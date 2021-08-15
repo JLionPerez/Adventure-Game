@@ -33,9 +33,9 @@ def typewriter(message):
         sys.stdout.flush()
 
         if char in pauses:
-            time.sleep(0.5)  # pace for end of line
+            time.sleep(0.3)  # pace for end of line
         else:
-            time.sleep(0.05)  # pace for middle of text
+            time.sleep(0.03)  # pace for middle of text
 
 
 """

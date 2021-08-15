@@ -4,7 +4,7 @@ Find spells for profession, scattered in the world
 defeat monsters to gain/unlock spells, pseudo leveling depending on monster
 
 
----- Prototype 2 ----
+---- Prototype 2 (Final) ----
 Story:
 you're a traveling mage with an uncanny ability to read old scripts and learn new spells from them
 tasked to defeat monsters and save Altea from destruction by the royal prophet
@@ -51,7 +51,7 @@ lackeys - uncommon or common chests or none
 
 common spells:
 heals - minor heal
-attacks - 
+attacks - glitter slap
 
 uncommon spells:
 heals - 
