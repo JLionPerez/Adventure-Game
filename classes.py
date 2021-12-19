@@ -1,16 +1,18 @@
 class Character:
     name = ""
-    health = 10
+    health = 0
     spells = {
         "" : ["heal", 0],
         "" : ["attack", 0]
     }
 
     def __init__(self, name, health, spells):
-        player_spells = dict(spells)
         self.name = name
         self.health = health
-        self.spells = player_spells
+        self.spells = dict(spells)
+
+    def set_name(self, name):
+        self.name = name
 
     def add_health(self, bonus_health):
         self.health = self.health + bonus_health

@@ -18,7 +18,7 @@ def main():
         "Minor Heal" : ["heal", 5],
         "Glitter Slap" : ["attack", 3]
     }
-    Character.player(name, health, spells)
+    player = Character(name, health, spells)
 
     os.system("cls")
 
@@ -45,8 +45,8 @@ def main():
 
     # name character (might be moved when introducing player to the prophet)
     typewriter("What is your name?\n")
-    name = input("> ")
-    typewriter("\nLet's begin your adventure, " + name + ".")
+    player.set_name(input("> "))
+    typewriter("\nLet's begin your adventure, " + player.name + ".")
 
     time.sleep(1)
     os.system("cls")
