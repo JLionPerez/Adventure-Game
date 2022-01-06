@@ -131,7 +131,11 @@ Story:
     but when killed the force keeping Mayhem underground weakens thus releasing Mayhem
     your ultimate goal would be to defeat Mayhem once and for all
 
-    (New) The player is a traveling mage. On their jounrey they come across The Great of Altea,
+    (New) The player is a traveling mage. On their journey they come across The Great City of Altea. (One of the most powerful and advanced cities on the planet.)
+    There they must meet the High Prophet from the Church of Dia who warns them about the impending doom of their great city.
+    A being of immense power sleeps beneath the great city. In their slomber they emit pure energy which powers the city. (This energy also powers the magical defense dome that protects the city from outer threats.)
+    However that energy is only the residual power of the being. If the being were to awaken and unleash all of its power the city would implode leaving no trace of its existance. (The energy would create so much heat within the bubble that it would melt everything burn up the air that when it cools down the heat escapes creating a suction from within the globe crushing itself.)
+    The High Prophet forsees the being's awakening, and they bestow the player with the heavy task of 
 
     (Hidden) Unable to remember their past life, they wondered the plains for days until they stumbled upon a small rustic cabin within the deep woods.
     With the last bit of their energy they limped to the cabin's front porch and managed to knock on the door a few times before they collapsed on the ground.
