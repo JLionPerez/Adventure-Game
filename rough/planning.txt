@@ -106,3 +106,33 @@ Kappa - boss
 water snakes/eels - mini boss
 gold fish - lackeys : don't release gold fish into the wild
 fishermen - helpers
+
+----- Idea 3 -----
+Game Mechanics:
+    + instead of getting spells from chests, have the player trade in experience for spells from merchants
+        - would get rid of the statuses of chests, and chests in general
+    + power level of monsters will have key words and colors instead of just colors
+    + different power leveled monsters give out different amount of experience points
+    + merchants add spells
+    + player can forget their own spells
+    + combining spells? spellweaver class
+    + player has starting spells, health, and experience
+    + (extra features) player name, pronouns?
+
+Story:
+    (Old) you're a traveling mage with an uncanny ability to read old scripts and learn new spells from them
+    tasked to defeat monsters and save Altea from destruction by the royal prophet
+    an evil magic called Mayhem is about to awaken erupting from the grounds of Altea
+    to put it back to sleep you need to venture to 3 different dimensions and kill the Mayham's agents to restore peace in those dimensions
+    once all dimensions have been purged by Mayhem influences, then the threat will be avoided
+    but you get tricked (going on a mislead rampage), killing the agents triggers the awakening of Mayhem
+    turns out the person who said the prophecy about Mayhem was lying and is a secret Mayhem worshipper
+    the agents were guardians of these dimensions and keep Mayhem in his tomb, 
+    but when killed the force keeping Mayhem underground weakens thus releasing Mayhem
+    your ultimate goal would be to defeat Mayhem once and for all
+
+    (New) The player is a traveling mage. On their jounrey they come across The Great of Altea,
+
+    (Hidden) Unable to remember their past life, they wondered the plains for days until they stumbled upon a small rustic cabin within the deep woods.
+    With the last bit of their energy they limped to the cabin's front porch and managed to knock on the door a few times before they collapsed on the ground.
+    When they awoken they found themselves inside the cabin laying in a soft warm bed. A steaming bowl of porridge was on the nightstand beside them.
