@@ -119,7 +119,7 @@ Game Mechanics:
     + player has starting spells, health, and experience
     + (extra features) player name, pronouns?
 
-Story:
+Overall Story:
     (Old) you're a traveling mage with an uncanny ability to read old scripts and learn new spells from them
     tasked to defeat monsters and save Altea from destruction by the royal prophet
     an evil magic called Mayhem is about to awaken erupting from the grounds of Altea
@@ -132,11 +132,14 @@ Story:
     your ultimate goal would be to defeat Mayhem once and for all
 
     (New) The player is a traveling mage. On their journey they come across The Great City of Altea. (One of the most powerful and advanced cities on the planet.)
-    There they must meet the High Prophet from the Church of Dia who warns them about the impending doom of their great city.
+    There they meet the High Prophet from the Church of Dia who warns them about the impending doom of their great city.
     Altea, a being of immense power, sleeps beneath the great city. In their slomber they emit pure energy which powers the city. (This energy also powers the magical defense dome that protects the city from outer threats.)
-    However that energy is only their residual power resonating from their dorment body. If Altea were to awaken and unleash all of its power the city would implode leaving no trace of its existance. (The energy would create so much heat within the bubble that it would melt everything burn up the air that when it cools down the heat escapes creating a suction from within the globe crushing itself.)
+    However that energy is the residual power resonating from the being's dorment body. If Altea were to awaken and unleash all of its power the city would implode leaving no trace of its existance. (The energy would create so much heat within the bubble that it would melt everything burn up the air that when it cools down the heat escapes creating a suction from within the globe crushing itself.)
     The High Prophet forsees the greay being's awakening, and they bestow the player with the heavy task of keeping the Altea asleep.
 
     (Hidden) Unable to remember their past life, they wondered the plains for days until they stumbled upon a small rustic cabin within the deep woods.
     With the last bit of their energy they limped to the cabin's front porch and managed to knock on the door a few times before they collapsed on the ground.
     When they awoken they found themselves inside the cabin laying in a soft warm bed. A steaming bowl of porridge was on the nightstand beside them.
+
+Start Adventure:
+    
