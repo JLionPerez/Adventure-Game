@@ -118,6 +118,23 @@ Game Mechanics:
     + combining spells? spellweaver class
     + player has starting spells, health, and experience
     + (extra features) player name, pronouns?
+    + exploring outside the city finding answers to put Altea to sleep
+
+Brainstorm:
+    + 3 crystals keeps Altea asleep
+        + city is safe and you're awarded a home within the city and a position in the court along with riches
+    + 3 relics wakes up Altea but doesn't destroy the city, her powers are diminished but she does fights you, you have to calm her down by defeating her
+        + she'll tell you about her life story and what it's like being awake while your body sleeps
+        + angry at the people taking advantage of her while she suffers
+    + deciding not to put anything on the pedestals will destroy the city
+        + Altea will wake imploding the city and destroy life on the planet except you
+        + new adam and eve
+    + 3 guardians protect the crystals
+        + crystals provide life to their realm, once taken everything there dimensions
+        + if you don't want to kill their life, you can help them defeat monsters that threaten their livelihoods
+        + defeating the monsters gets you their powerful relics
+    +\\
+
 
 Overall Story:
     (Old) you're a traveling mage with an uncanny ability to read old scripts and learn new spells from them
@@ -135,7 +152,7 @@ Overall Story:
     There they meet the High Prophet from the Church of Dia who warns them about the impending doom of their great city.
     Altea, a being of immense power, sleeps beneath the great city. In their slomber they emit pure energy which powers the city. (This energy also powers the magical defense dome that protects the city from outer threats.)
     However that energy is the residual power resonating from the being's dorment body. If Altea were to awaken and unleash all of its power the city would implode leaving no trace of its existance. (The energy would create so much heat within the bubble that it would melt everything burn up the air that when it cools down the heat escapes creating a suction from within the globe crushing itself.)
-    The High Prophet forsees the greay being's awakening, and they bestow the player with the heavy task of keeping the Altea asleep.
+    The High Prophet forsees the great being's awakening, and bestow the player with the important task of putting Altea back to sleep.
 
     (Hidden) Unable to remember their past life, they wondered the plains for days until they stumbled upon a small rustic cabin within the deep woods.
     With the last bit of their energy they limped to the cabin's front porch and managed to knock on the door a few times before they collapsed on the ground.
