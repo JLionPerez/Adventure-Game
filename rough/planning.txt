@@ -133,10 +133,9 @@ Brainstorm:
         + crystals provide life to their realm, once taken everything there dimensions
         + if you don't want to kill their life, you can help them defeat monsters that threaten their livelihoods
         + defeating the monsters gets you their powerful relics
-    +\\
+    +
 
-
-Overall Story:
+Abstract Story:
     (Old) you're a traveling mage with an uncanny ability to read old scripts and learn new spells from them
     tasked to defeat monsters and save Altea from destruction by the royal prophet
     an evil magic called Mayhem is about to awaken erupting from the grounds of Altea
@@ -156,7 +155,59 @@ Overall Story:
 
     (Hidden) Unable to remember their past life, they wondered the plains for days until they stumbled upon a small rustic cabin within the deep woods.
     With the last bit of their energy they limped to the cabin's front porch and managed to knock on the door a few times before they collapsed on the ground.
-    When they awoken they found themselves inside the cabin laying in a soft warm bed. A steaming bowl of porridge was on the nightstand beside them.
+    When they awoken they found themselves inside the cabin laying in a soft warm bed. A steaming bowl of porridge was on the nightstand beside them...
+
+Outline:
+    1) wakes up from camp
+    2) travels through forest
+        a) down the road towards The Great City of Altea
+        b) hidden lake/pond in the forest
+            i.a) chance with unicorn/kelpie can learn a new spell and gain experience from unicorn or dark power from kelpie after defeating her
+            i.b) chance to meet Vanilla the magical betta fish, acts as a support, heals your health/mana over time and once during battles when your health/mana is low; 10 out of 100 points
+        c) goblin Caves
+            i) shortcut to The Great City of Altea
+            ii) initial experience and saving traveling merchant, gives you 20% discount on an item at his shop in Altea
+    3.a) The Great City of Altea
+        a) The Church of Dia
+            i) meet the High Prophet, get task of putting Altea back to sleep
+            ii) heal at fountain
+            iii) pray to Dia to replenish mana
+        b) merchant's shop
+            i) 
+
+Merchant's Shop:
+    + starter spells
+        heals:
+            + minor heal
+        attacks:
+            + glitter slap
+
+    + common spells
+        heals:
+            + 
+        attacks:
+            + 
+
+    + rare spells
+        heals:
+            + 
+        attacks:
+            + 
+
+    + legendary spells
+        heals:
+            + Blessed kiss (full revive, when played before dying will give you a second life after death)
+            + 
+        attacks:
+            + Izin Dicin' (rapid slicing of magical knives at all enemy targets)
+            + Vanilla Dilla Hitta (Vanilla slaps enemies with tail causing major damage to enemy party)
+            + Puppy Cuddle attack (Lacye and Bentley jumps on enemy and cuddles them to death)
+
+    + special items (one time use spells)
+        heals:
+            + Life elixir
+            + Mana elixir
+        attacks:
+            + 
 
 Start Adventure:
-    
