@@ -162,8 +162,9 @@ Outline:
     2) travels through forest
         a) down the road towards The Great City of Altea
         b) hidden lake/pond in the forest
-            i.a) chance with unicorn/kelpie can learn a new spell and gain experience from unicorn or dark power from kelpie after defeating her
-            i.b) chance to meet Vanilla the magical betta fish, acts as a support, heals your health/mana over time and once during battles when your health/mana is low; 10 out of 100 points
+            i.a) chance with unicorn/kelpie can learn a new spell and gain experience from unicorn
+            i.b) dark power from kelpie after defeating her
+            i.c) chance to meet Vanilla the magical betta fish, acts as a support, heals your health/mana over time and once during battles when your health/mana is low; 10 out of 100 points
         c) goblin Caves
             i) shortcut to The Great City of Altea
             ii) initial experience and saving traveling merchant, gives you 20% discount on an item at his shop in Altea
@@ -173,7 +174,8 @@ Outline:
             ii) heal at fountain
             iii) pray to Dia to replenish mana
         b) merchant's shop
-            i) 
+            i) 4 different spells
+                i.a) 2 attacks, 1 legendary spell/1 heal, 1 special spell (consumable)
 
 Merchant's Shop:
     + starter spells
