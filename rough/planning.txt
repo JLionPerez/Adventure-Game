@@ -107,7 +107,7 @@ water snakes/eels - mini boss
 gold fish - lackeys : don't release gold fish into the wild
 fishermen - helpers
 
------ Idea 3 -----
+----- Idea 3 ----- (too many places, too complex)
 Game Mechanics:
     + instead of getting spells from chests, have the player trade in experience for spells from merchants
         - would get rid of the statuses of chests, and chests in general
@@ -176,6 +176,7 @@ Outline:
         b) merchant's shop
             i) 4 different spells
                 i.a) 2 attacks, 1 legendary spell/1 heal, 1 special spell (consumable)
+        c) 
 
 Merchant's Shop:
     + starter spells
@@ -213,3 +214,42 @@ Merchant's Shop:
             + 
 
 Start Adventure:
+
+
+----- Idea 4 ----- (simpler)
+Player
+    1) Experience - used as currency for new spells
+    2) Health - affected by magic attacks/heals
+    3) Attack spells
+    4) Heal spells
+
+Enemies
+    1) Health
+    2) Attack spells
+    3) Heal spells
+
+Merchant Shop
+    1) Sells Attack spells
+    2) Sells Heal spells
+    3) Sells one time use spells
+
+Outline
+    1) Camp
+        i) Player wakes up from camp
+        ii) Wants to hunt monsters
+    2) The Forest
+        i) Travels through forest to find monsters
+        ii) Sees the merchant getting bamboozled by goblins
+        iii) Player uses basic moves to defeat goblins
+        iv) Gain experience for saving merchant, tells you to visit his shop at the city
+    3) The Great City of Altea
+        i) High Prophet hears of your good deed from the merchant, invites you to the Church of Dia
+        ii) High Prophet rewards you with a blessing from Dia (gain experience)
+        iii) High Prophet tells you the story of Altea and how the city has been thriving, asks you to keep Altea asleep by getting 3 gems
+        iv) Visit merchant for a gift (free new spell)
+    4) First Gem
+        i) 
+    5) Second Gem
+        i) 
+    6) Third Gem
+        i) 
